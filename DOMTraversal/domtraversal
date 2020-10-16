@@ -1,0 +1,24 @@
+DOM Traversal
+penelusuran DOM
+
+DOM Traversal Method
+- parentNode // node
+- parentElement // element
+- nextSibling // node
+- nextElementSibling // element
+- previousSibling // node
+- previousElementSibling // element
+
+------------------------------------------------------------------------------------------
+
+Prevent Default
+sebuah method yang ada dialam object event ini, tujuannya untuk menghentikan aksi default yang dihasilkan oleh sebuah elemen
+
+preventDefault()
+
+stopPropagation()
+
+------------------------------------------------------------------------------------------
+
+Event Bubbling
+

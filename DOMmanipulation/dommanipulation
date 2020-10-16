@@ -1,0 +1,34 @@
+DOM Manipulation Method
+- manipulasi element
+- manipulasi node
+
+manipulasi element
+- element.innerHTML
+- element.style.<property>
+- element.setAttribute()
+- element.classList
+
+- element.classList.add()
+- element.classList.remove()
+- element.classList.toggle()
+- element.classList.item()
+- element.classList.contains()
+- element.classList.replace()
+
+manipulasi node
+- document.createElement()
+- document.createTextNode()
+- node.appendChild()
+- node.insertBefore()
+- parentNode.removeChild()
+- parentNode.replaceChild()
+...
+
+manipulasi node (method baru)
+- parentNode.append()
+- parentNode.prepend()
+- childNode.before()
+- childNode.after()
+- childNode.remove()
+- childNode.replaceWith()
+...

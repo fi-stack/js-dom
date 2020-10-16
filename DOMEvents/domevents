@@ -1,0 +1,29 @@
+Events
+"Event pada javascript merepresentasikan sebuah kejadian yang terjadi di dalam DOM..."
+"...Kejadian tersebut bisa dilakukan oleh user, (mouse event, keyboard event, dll)"
+"ataupun dilakukan secara otomatis oleh API (animasi selesai dijalankan, halaman selesai di load, dll"
+
+cara 'mendengarkan' event
+- event handler
+    - inline HTML attribute
+    - element method
+- addEventListener
+
+on<event>
+
+menggunakan event handler adalah cara lama
+
+perbedaan event handler & event listener adalah ketika kita punya 2 fungsionalitas event handler fungsi terakhir akan menimpa fungsi sebelumnya, berbeda dengan event listener semua fungsinya berjalan
+
+Daftar Event
+- Mouse Event
+- Keyboard Event
+- Resources Event
+- Focus Event
+- View Event
+- Form Event
+- CSS Animation & Transition Event
+- Drag & Drop Event
+- dll.
+
+*yang jangan digunakan inline eventhandler

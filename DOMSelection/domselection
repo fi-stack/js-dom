@@ -1,0 +1,20 @@
+DOM Selection
+merupakan tahap awal ketika kita ingin melakukan manipulasi atau penelusuran pada DOM
+
+DOM Selection Method
+- getElementById() // memilih elemen yang ada didalam dom kita berdasarkan id
+- getElementsByTagName() // js tolong carikan saya elemen2 yang memiliki nama tag tertentu
+- getElementsByClassName() // carikan elemen yang memiliki nama class tertentu, class boleh dimiliki oleh lebih dari 1 elemen beda dengan id *jamak
+- querySelector() // untuk mencari elemen berdasarkan selectornya
+- querySelectorAll()
+
+hasil
+- getElementById() // element
+- getElementsByTagName() // HTMLCollection
+- getElementsByClassName() // HTMLCollection
+- querySelector() // element
+- querySelectorAll() // nodeList
+
+pastikan dulu klo bisa gunakan byId & byTagName karena performanya baik
+
+mengubah node root
